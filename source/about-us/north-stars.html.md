@@ -2,52 +2,63 @@
 title: North stars
 ---
 
-All of us, in our work, have direct relations with colleagues and stakeholders, such as clients, 
-other development teams, members of the OSS community and other professionals. The relationship 
-established with them is fundamental: we must always keep in mind all the values and standards that 
-Nebulab aims to represent and uphold.
+While [our vision](/about-us/our-vision) represents the destination, our North stars are how we get
+there. They are the standards we hold ourselves to, the values we carry with us every day, and they
+are what really defines Nebulab.
 
-Working at Nebulab means investing in an all-round collaboration context. It is essential to support
-one another as well as coordinate with each other in an attempt to compensate any shortcomings of 
-other team members.
+## Integrity
 
-## Be honest.
+Integrity is doing and saying what's right, not what's convenient.
 
-* We choose the right solutions over the convenient ones.
-* We work and communicate sincerely and loyally.
-* We speak up when a decision could damage our clients.
-* We only bill our clients for the hours we actually work for them.
+We all have an inner sense of fairness, and we should use that as a guiding light in our decisions
+and interactions with partners and teammates. If something doesn't _feel_ right, it's probably not, 
+and we should speak up.
 
-## Be transparent.
+Sometimes, integrity takes courage, such as when we need to provide constructive feedback to
+someone we care about. This is good: it means there's a healthy tension between our sense of
+integrity and our sense of empathy.
 
-* We communicate with simplicity, clarity, and precision.
-* We make all the information at our disposal available.
-* We respond to questions and concerns in a timely fashion.
-* We keep track of our output in agreed-upon tools.
+We should never forget that a lack of integrity is a lack of trust. In the absence of trust, it's
+impossible to build shared vision, or get anything done as a team.
 
-## Enjoy both life and work.
+## Transparency
 
-* We work at a sustainable pace.
-* We create a fun work environment.
-* We make space for the things that matter to us.
-* We work in harmony with our personal values.
+Transparency is systematically providing the context behind our choices.
 
-## Be committed to clients.
+Building a transparent company requires effort, empathy and respect. Most importantly, it requires
+trust that people will use the information we are providing in good faith, and that they will speak
+up if they disagree with our thought process.
 
-* We act as if we were spending our own money, not our clients'.
-* We work to make sure the problems we solve never happen again.
-* We approach problems critically, researching all possible solutions.
-* We are empathetic towards our clients' needs and concerns.
+Transparency empowers others to reach their own conclusions and make their own decisions. It makes
+them feel like they're not just a means to an end, but rather the end in itself.
 
-## Strive for excellence, not perfection.
+Effective remote cultures are, first and foremost, transparent cultures. 
 
-* We find the sweet spot between technical perfection and business value.
-* We stick to battle-tested tools and methodologies which are right for the job.
-* We focus on the value of our solutions instead of engaging in thought experiments.
+## Intention
 
-## Build valuable human connections.
+Intention is the _leitmotiv_ in everything we do.
 
-* We share our knowledge in all possible ways with the community.
-* We train our clients on our way of working and learn from theirs.
-* We create an environment of constant growth for our teammates.
-* We strive to understand everyone at both a personal and professional level. 
+We measure our words and actions by accounting for all the factors at play, and all the possible
+outcomes. We take the time it needs to reach a decision, but no longer than that—most decisions can
+be reverted, so we use our experience to make the best one and move on.
+
+We don't let chance or external circumstances dictate how we work: we plan our space and time in
+accordance with our values, goals and aspirations.
+
+Slow is smooth, smooth is fast.
+
+## Commitment
+
+Commitment is caring about ourselves, the work we do, the partners we do it for and the community
+we do it with.
+
+We show commitment when we ensure everyone and everything around us is enriched as a result of our
+presence. We do this by looking at the world with a critical, pragmatic eye, and finding ways to
+improve the status quo.
+
+There will always be something to improve—things we wish we had done, things we wish we had done
+differently, and things we wish we had never done at all—and that's okay: showing commitment is
+about the journey, not the destination.
+
+Our first commitment should be to ourselves: our mastery and our physical and mental health.
+Everything else will just fall in place.
