@@ -2,6 +2,18 @@
 title: Our vision
 ---
 
+Everything we do for Solidus and our partners falls under the same vision: to empower a new
+generation of eCommerce brands to stand out—brands that feel authentic, alive and sophisticated—and
+we want to do this by giving them the tools and the expertise to launch beautifully crafted shopping
+experiences.
+
+Vision towards our clients + towards our team
+
+
+
+
+
+
 To be an inspiring digital consulting firm that builds quality products by creating the best
 workplace for web enthusiasts. 
 
