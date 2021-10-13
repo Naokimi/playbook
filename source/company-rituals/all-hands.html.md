@@ -1,5 +1,5 @@
 ---
-title: All-Hands meeting
+title: All-hands
 ---
 
 Every month, we hold an All-Hands meeting. We use this session to provide useful information

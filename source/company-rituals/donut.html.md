@@ -1,5 +1,5 @@
 ---
-title: Donut
+title: Donuts
 ---
 
 Periodically during the week, [Donut](https://donut.com) will pair people in the #coffee channel. It
